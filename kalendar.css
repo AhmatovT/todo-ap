@@ -1,0 +1,67 @@
+.kalendar {
+    border: 2px solid black;
+    width: 40%;
+    margin: 1% auto;
+    color: blue;
+}
+
+.first {
+    color: red;
+}
+
+.first:hover {
+    color: rgb(199, 36, 63)
+}
+
+.second {
+    color: green;
+}
+
+.second:hover {
+    color: chartreuse;
+}
+
+.third {
+    color: blue;
+}
+
+.third:hover {
+    color: tomato;
+}
+
+.fourth {
+    color: blueviolet;
+}
+
+.fourth:hover {
+    color: salmon;
+}
+
+.fifth {
+    color: brown;
+}
+
+.fifth:hover {
+    color: turquoise;
+}
+
+.addTaskform {
+    padding: 20px;
+}
+
+.addInput {
+    margin-right: 20px;
+    height: 30px;
+}
+
+.addButtton {
+    background-color: orange;
+    color: white;
+    height: 20px;
+    width: 70px;
+    border-radius: 5px;
+}
+
+.addButtton:active {
+    background-color: dodgerblue;
+}
